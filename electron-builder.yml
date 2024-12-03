@@ -1,5 +1,5 @@
 appId: 'PixelmonStudy'
-productName: '픽셀몬 스터디'
+productName: '픽셀몬_스터디'
 artifactName: '${productName}-setup-${version}.${ext}'
 
 copyright: 'Copyright © 2024 gotiger'
